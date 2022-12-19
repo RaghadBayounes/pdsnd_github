@@ -9,7 +9,8 @@ Bikeshare project
 Python project
 
 ### Files used
-Include the files used
+1- bikeshare.py
+2- washington.csv 
 
 ### Credits
 Developer: Raghad Bayounes
