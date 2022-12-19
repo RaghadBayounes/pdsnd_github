@@ -3,13 +3,13 @@
 ### Date created
 19/12/2022
 ### Project Title
-Bikeshare.py
+Bikeshare project
 
 ### Description
-Python project 
+Python project
 
 ### Files used
 Include the files used
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Developer: Raghad Bayounes
