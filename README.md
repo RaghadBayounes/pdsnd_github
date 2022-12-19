@@ -16,4 +16,4 @@ Python project
 Developer: Raghad Bayounes
 
 ##about the Developer
-Raghad is a cs fresh graduate
+Raghad is a cs fresh graduate, graduate in 2022
