@@ -8,6 +8,9 @@ CITY_DATA = {'chicago': 'chicago.csv',
 def editfor_github_project():
     print("First edit")
 
+def info():
+    print("raghad bayounes ")
+
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
