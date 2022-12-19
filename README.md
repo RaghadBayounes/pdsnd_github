@@ -10,7 +10,10 @@ Python project
 
 ### Files used
 1- bikeshare.py
-2- washington.csv 
+2- washington.csv
 
 ### Credits
 Developer: Raghad Bayounes
+
+##about the Developer
+Raghad is a cs fresh graduate
