@@ -11,6 +11,9 @@ def editfor_github_project():
 def info():
     print("raghad bayounes ")
 
+def projectinfo():
+    print("It is a python project")
+
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
